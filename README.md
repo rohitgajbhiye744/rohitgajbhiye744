@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Vanraksha, an innovative platform using AI and blockchain for environmental conservation**.
+- 🔭 I’m currently worked on **Vanraksha, an innovative platform using AI and blockchain for environmental conservation**.
 - 🌱 I’m currently learning **to deepen my knowledge in cloud-native technologies and scalable system architecture**.
 - 👯 I’m looking to collaborate on **open-source projects that combine great UI/UX design with robust backend solutions**.
 - 💬 Ask me about **Full-Stack Development, Java, Spring Boot, React, and UI/UX Design**.
